@@ -1,0 +1,50 @@
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\bin\Debug\pos.exe.config
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\bin\Debug\pos.exe
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\bin\Debug\pos.pdb
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.csprojResolveAssemblyReference.cache
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.Form1.resources
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.Properties.Resources.resources
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.csproj.GenerateResource.Cache
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.exe
+c:\users\tatsumaki\documents\visual studio 2015\Projects\pos\obj\Debug\pos.pdb
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\MetroFramework.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\obj\Debug\pos.FormLogin.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\bin\Debug\XanderUI.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\obj\Debug\pos.Dashboard.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\pos\obj\Debug\pos.DataUser.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\pos.exe.config
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.exe
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.pdb
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.csprojResolveAssemblyReference.cache
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.FormLogin.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Properties.Resources.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.csproj.GenerateResource.Cache
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\pos.exe
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\pos.pdb
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\MetroFramework.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\bin\Debug\XanderUI.dll
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Dashboard.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.DataUser.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.DataAlatBerat.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Transaksi.resources
+C:\Users\Tatsumaki\Documents\Visual Studio 2015\Projects\UTS_Visual\obj\Debug\pos.Dashboard2.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\pos.exe.config
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.exe
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.pdb
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\pos.exe
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\pos.pdb
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\MetroFramework.dll
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\bin\Debug\MetroFramework.Fonts.dll
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Dashboard.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Dashboard2.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.DataAlatBerat.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.DataUser.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.FormLogin.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Properties.Resources.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.Transaksi.resources
+D:\Kuliah\Semester 5\Visual\UTS\C# - Penyewaan Alat Berat Flat UI\obj\Debug\pos.csproj.GenerateResource.Cache
